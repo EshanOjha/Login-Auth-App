@@ -6,4 +6,9 @@ we will start our login and registration application using Node.js, Express and 
 Here we also create controller and services using angular.js , whole front end is designed by using HTML5 and angular.js and using node.js as plateform 
 User authentication is done by using passport and data is stored in Robomongo Db using MongoDb.
 
+We have done this with the help of  tutorial : https://scotch.io/tutorials/easy-node-authentication-setup-and-local
+
+
+
+
 
